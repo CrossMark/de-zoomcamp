@@ -231,7 +231,7 @@ SELECT COUNT(index) FROM public.yellow_taxi_data
 WHERE DATE(tpep_pickup_datetime) = '2021-01-15';
 ```
 
-`53024`
+53024
 
 ## Question 4
 ### Find the largest tip for each day. On which day it was the largest tip in January?
